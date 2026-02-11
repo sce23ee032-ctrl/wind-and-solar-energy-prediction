@@ -9,7 +9,7 @@ le_source = joblib.load('le_source.pkl')
 le_day = joblib.load('le_day.pkl')
 le_month = joblib.load('le_month.pkl')
 
-st.title("⚡ France Renewable Energy Predictor")
+st.title("⚡ SOLAR POWER Predictor")
 st.write("Enter details to predict energy production (MW)")
 
 # Sidebar inputs
